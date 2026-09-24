@@ -1,0 +1,12 @@
+# Which face01-39 (see MANIFEST.txt / contact_sheet.png) each bots-v1 persona
+# icon is built from. All use the _c8 (white) palette variant.
+# bots-v1/icons/<file>.png | Discord name | face_full source
+
+analyst.png       | Athena      | face10_c8.png
+skeptic.png       | Marcus      | face06_c8.png
+philosopher.png   | Sophia      | face09_c8.png
+confused.png      | Helena      | face04_c8.png
+cynic.png         | Diogenes    | face11_c8.png
+maverick.png      | Heraclitus  | face02_c8.png
+scribe.png        | Lydia       | face14_c8.png
+synthesis.png     | Sage        | face07_c8.png
