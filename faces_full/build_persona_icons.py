@@ -10,11 +10,11 @@ OUT_DIR = Path("/home/user/projects/bots-v1/icons")
 MAPPING = {
     "analyst": "face10_c8",      # Athena
     "skeptic": "face06_c8",      # Marcus
-    "philosopher": "face09_c8",  # Sophia
-    "confused": "face04_c8",     # Helena
+    "philosopher": "face20_c8",  # Sophia
+    "confused": "face05_c8",     # Helena
     "cynic": "face11_c8",        # Diogenes
-    "maverick": "face02_c8",     # Heraclitus
-    "scribe": "face14_c8",       # Lydia
+    "maverick": "face24_c8",     # Heraclitus
+    "scribe": "face02_c8",       # Lydia
     "synthesis": "face07_c8",    # Sage
 }
 
